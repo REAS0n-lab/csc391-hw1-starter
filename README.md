@@ -8,7 +8,7 @@ reporting templates the assignment expects.
 Both methods work. The assignment is not to make them run. It is to decide
 what can be claimed once they have.
 
-**Opens Friday 9/11. Due Wednesday 9/23 at 2:00 p.m.**
+**Opens Friday 9/11. Due Wednesday 9/23 at 11:59 p.m.**
 
 ## Layout
 
